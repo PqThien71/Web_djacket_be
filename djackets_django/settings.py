@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)_ru!lcefwhwv25r5u0!&u3tj^4p1h%khm_qg_a_qmvr6z2@w5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["djacket-api.anibibi.dev", "localhost"]
 
 
 # Application definition
